@@ -1,1 +1,9 @@
-CSS File
+h1 {
+	font-size: 25px;
+	font-family: futura;
+}
+
+p{ 
+	font size: 14px;
+	font-family: gill sans;
+	}
