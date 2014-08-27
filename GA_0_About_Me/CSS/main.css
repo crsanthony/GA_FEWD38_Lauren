@@ -9,3 +9,8 @@ body {
 	background: url("../img/shoes.jpg");
 	background-size: cover;
 }
+
+.avatar {
+	margin: 60px 30px;
+	border-radius: 100%;
+}
