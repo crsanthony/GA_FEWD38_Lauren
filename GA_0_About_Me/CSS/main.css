@@ -3,7 +3,9 @@ h1 {
 	font-family: futura;
 }
 
-p{ 
-	font size: 14px;
+body {
+	font-size: 14px;
 	font-family: gill sans;
-	}
+	background: url("../img/shoes.jpg");
+	background-size: cover;
+}
