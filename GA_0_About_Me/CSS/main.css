@@ -17,3 +17,14 @@ body {
 	border-radius: 100%;
 
 }
+
+.columns {
+	float: left;
+	width: 100px;
+}
+
+.column-parent {
+	overflow: hidden;
+	width: 400px;
+	margin: 0 auto;
+}
