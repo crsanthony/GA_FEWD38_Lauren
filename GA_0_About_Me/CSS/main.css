@@ -1,11 +1,16 @@
 h1 {
 	font-size: 48px;
 	font-family: 'Lobster' , cursive;
+	text-align: center;
+}
+nav {
+	color:red;
 }
 
 body {
 	font-size: 14px;
 	font-family: gill sans;
+	text-align: center;
 	background: url("../img/shoes.jpg");
 	background-size: cover;
 }
