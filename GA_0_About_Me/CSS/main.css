@@ -40,4 +40,6 @@ width: 600px;
 margin-right: auto; 
 margin-left: auto; 
 text-align: center;
+border: 2px solid;
+border-radius: 50%;
 }
