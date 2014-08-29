@@ -1,12 +1,17 @@
 h1 {
 	font-size: 48px;
-	font-family: 'Lobster' , cursive;
+	font-family: 'Lobster', cursive;
 	text-align: center;
+}
+
+a {
+	font-size: 24px;
+	color: black;
 }
 
 body {
 	font-size: 14px;
-	font-family: gill sans;
+	font-family: gill sans, sans-serif;
 	text-align: center;
 	background: url("../img/brushstroke.jpg");
 	background-size: cover;
