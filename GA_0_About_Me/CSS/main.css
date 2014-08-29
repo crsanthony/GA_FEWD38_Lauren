@@ -13,7 +13,7 @@ body {
 	font-size: 14px;
 	font-family: gill sans, sans-serif;
 	text-align: center;
-	background: url("../img/brushstroke.jpg");
+	background: url("../img/treefort.png");
 	background-size: cover;
 }
 
@@ -25,11 +25,19 @@ body {
 
 .columns {
 	float: left;
-	width: 100px;
+	width: 125px;
 }
 
 .column-parent {
 	overflow: hidden;
-	width: 400px;
+	width: 500px;
 	margin: 0 auto;
+}
+
+.whiteBlock {
+background-color: white; 
+width: 600px;
+margin-right: auto; 
+margin-left: auto; 
+text-align: center;
 }
