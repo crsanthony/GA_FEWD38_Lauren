@@ -41,5 +41,10 @@ width: 600px;
 margin-right: auto; 
 margin-left: auto; 
 text-align: center;
-border: 2px solid;
+border:2px solid;
+padding:10px;
+border-top-left-radius:3em;
+border-top-right-radius:3em;
+border-bottom-left-radius:3em;
+border-bottom-right-radius:3em;
 }
