@@ -1,3 +1,41 @@
 body{
-	font-family: helvetica;
+	font-family: 'lato', sans-serif;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	padding: 10px;
+}
+
+hr {
+	line-height: 1px;
+	opacity: .5;
+}
+.firstLetter{
+  float: left;
+  font-size: 80px;
+  line-height: 0.5;
+  margin:; 0.205em 0.153em 0 0;
+  padding: 10px;
+  color: lightGray;
+}
+
+}
+.post {
+	text-align: justify;
+}
+
+.continues {
+	position: relative;
+	float: right;
+	margin: 10px;
+	padding: 10px;
+}
+
+.links{
+	font-size: 16px;
+}
+
+.fadedText{
+	color: gray;
 }
