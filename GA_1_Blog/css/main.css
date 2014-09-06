@@ -11,6 +11,26 @@ hr {
 	line-height: 1px;
 	opacity: .5;
 }
+
+h2 {
+	margin: 10px;
+}
+
+#title{
+	color: red;
+}
+
+#topNav a {
+	padding-bottom: .2em;
+	color: gray;
+	margin-right: .8em;
+	text-decoration: none;
+	border-bottom: 1.5px solid gray;
+}
+
+#mainContent {
+	margin-top: 25px;
+}
 .firstLetter{
   float: left;
   font-size: 80px;
@@ -20,22 +40,17 @@ hr {
   color: lightGray;
 }
 
-}
-.post {
-	text-align: justify;
-}
-
 .continues {
 	position: relative;
 	float: right;
 	margin: 10px;
-	padding: 10px;
-}
-
-.links{
-	font-size: 16px;
 }
 
 .fadedText{
 	color: gray;
+}
+
+.heroImage {
+	height: 300px;
+	width: 100%;
 }
