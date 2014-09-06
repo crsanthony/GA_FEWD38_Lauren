@@ -1,10 +1,15 @@
-body{
+body {
 	font-family: 'lato', sans-serif;
 	margin-left: 25px;
 	margin-right: 25px;
 	margin-top: 10px;
 	margin-bottom: 10px;
 	padding: 10px;
+}
+
+p {
+	font-size: 14px;
+	color: #666666;
 }
 
 h2 {
@@ -16,7 +21,7 @@ hr {
 	opacity: .5;
 }
 
-#title{
+#title {
 	color: #EE0000;
 }
 
@@ -38,13 +43,13 @@ hr {
 	margin-top: .4em;
 	color: #EE0000;
 	text-decoration: none;
-	font-weight: normal;
 }
-#footer{
+#footer {
 	color:#CDCDCD;
+	font-size: .9em;
 }
-}
-.firstLetter{
+
+.firstLetter {
   float: left;
   font-size: 80px;
   line-height: 0.5;
@@ -53,12 +58,19 @@ hr {
   color: #CDCDCD;
 }
 
+.button a {
+	color: #EE0000;
+	text-decoration: none;
+	font-size: .9em;
+	font-weight: bold;
+}
+
 .button {
 	float: right;
 	margin-bottom: 25px;
 }
 
-.fadedText{
+.fadedText {
 	color: #CDCDCD;
 }
 
