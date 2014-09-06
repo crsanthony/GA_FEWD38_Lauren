@@ -1,10 +1,14 @@
 body{
 	font-family: 'lato', sans-serif;
-	margin-left: 50px;
-	margin-right: 50px;
-	margin-top: 25px;
-	margin-bottom: 25px;
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-top: 10px;
+	margin-bottom: 10px;
 	padding: 10px;
+}
+
+h2 {
+	margin:5px;
 }
 
 hr {
@@ -12,24 +16,33 @@ hr {
 	opacity: .5;
 }
 
-h2 {
-	margin: 10px;
-}
-
 #title{
-	color: red;
+	color: #EE0000;
 }
 
 #topNav a {
 	padding-bottom: .2em;
-	color: gray;
+	padding-left: .3em;
+	color: #CDCDCD;
 	margin-right: .8em;
 	text-decoration: none;
-	border-bottom: 1.5px solid gray;
+	border-bottom: 1.5px solid #CDCDCD;
 }
 
 #mainContent {
 	margin-top: 25px;
+}
+
+#footer a {
+	padding-bottom: .2em;
+	margin-top: .4em;
+	color: #EE0000;
+	text-decoration: none;
+	font-weight: normal;
+}
+#footer{
+	color:#CDCDCD;
+}
 }
 .firstLetter{
   float: left;
@@ -37,20 +50,20 @@ h2 {
   line-height: 0.5;
   margin:; 0.205em 0.153em 0 0;
   padding: 10px;
-  color: lightGray;
+  color: #CDCDCD;
 }
 
-.continues {
-	position: relative;
+.button {
 	float: right;
-	margin: 10px;
+	margin-bottom: 25px;
 }
 
 .fadedText{
-	color: gray;
+	color: #CDCDCD;
 }
 
 .heroImage {
 	height: 300px;
 	width: 100%;
+	padding: .3em;
 }
